@@ -1,13 +1,15 @@
+package ShoppingCart;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class ShoppingCartTest {
-    private ShoppingCart cart;
+    private ShoppingCartQuestion cart;
 
     @BeforeEach
     void setUp() {
-        cart = new ShoppingCart();
+        cart = new ShoppingCartQuestion();
     }
 
     @Test

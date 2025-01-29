@@ -1,10 +1,12 @@
+package BankTransactionProcessor;
+
 import java.util.*;
 
-public class BankTransactionProcessor {
+public class BankTransactionProcessorQuestion {
     private Map<String, Double> accounts;
     private List<String> transactionLog;
 
-    public BankTransactionProcessor() {
+    public BankTransactionProcessorQuestion() {
         accounts = new HashMap(); // 1. Raw type usage
         transactionLog = new ArrayList(); // 2. Missing generics
     }

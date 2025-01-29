@@ -1,3 +1,5 @@
+package InventoryManagementQuestion;
+
 import java.util.*;
 
 public class InventoryManagement {

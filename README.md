@@ -14,7 +14,7 @@ This document outlines the structure and expectations for refactoring exercises 
     - Improve readability and maintainability.
     - Apply basic refactoring techniques (e.g., method extraction, renaming).
     - Introduce unit testing.
-- **Files Provided**: `ShoppingCartQuestion.java`, `README.md`
+- **Files Provided**: `Easy.ShoppingCartQuestion.java`, `README.md`
 
 ### **Medium**
 - **Scope**: Introduces structural changes and design patterns while addressing business logic complexity.
