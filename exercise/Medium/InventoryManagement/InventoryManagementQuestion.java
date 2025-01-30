@@ -1,11 +1,11 @@
-package InventoryManagementQuestion;
+package InventoryManagement;
 
 import java.util.*;
 
-public class InventoryManagement {
+public class InventoryManagementQuestion {
     private Map inventory;
 
-    public InventoryManagement() {
+    public InventoryManagementQuestion() {
         inventory = new HashMap(); // 1. Raw type usage
     }
 
