@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comprehensive.iml" filepath="$PROJECT_DIR$/Comprehensive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fully_expanded_massive_logistics_event_system/fully_expanded_massive_logistics_event_system.iml" filepath="$PROJECT_DIR$/fully_expanded_massive_logistics_event_system/fully_expanded_massive_logistics_event_system.iml" />
+    </modules>
+  </component>
+</project>
